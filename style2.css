@@ -1,0 +1,129 @@
+
+.wrapper {
+    margin-left: 10%;
+    margin-top: 100px;
+    background-color: burlywood;
+    width: 75%;
+    bottom: 0;
+    padding: 20px;
+  }
+  .header{
+      text-align: center;
+      font-size: 22px;
+  
+      font-family: Arial;
+  }
+  .form-group{
+      margin-left: 30%;
+      font-family: Arial;
+      font-size: 18px ;
+  }
+  .form-control{
+      display: block;
+      padding: 10px;
+      width: 60%;
+  }
+  .btn{
+      color: white;
+      background-color:brown;
+      text-align: center;
+      padding: 15px;
+      border: 1px solid brown;
+      
+  }
+  a{
+      text-decoration: none;
+      list-style: none;
+  }
+  .inbox{
+      display: flex;
+      margin-left: 10%;
+      width: 80%;
+      background-color:burlywood;
+      height: 550px;
+  }
+  .messages{
+      width: 40%;
+      margin-right: 10%;
+  }
+  .send{
+      border-left: 5px solid white;
+      width: 40%;
+  }
+  .btn1{
+      color: white;
+      background-color:maroon;
+      text-align: center;
+      padding: 15px;
+      margin-left: 70%;
+  }
+  
+  .send_btn{
+      color: white;
+      background-color:green;
+      text-align: center;
+      padding: 15px;
+      margin-left: 10%;
+      border: 1px solid green;
+  }
+  .form-group1{
+      margin-left: 10%;
+      font-family: Arial;
+      font-size: 18px ;
+  }
+  .form-control1{
+      display: block;
+      padding: 10px;
+      width: 90%;
+  }
+  textarea{
+      height: 200px;
+  }
+  h3{
+      color: black;
+      font-size: 22px;
+      font-family: Arial;
+      text-align: center;
+      text-transform: uppercase;
+      text-decoration: underline;
+  }
+  table{
+      margin-left: 10%;
+  }
+.chat{
+    margin-left: 30%;
+    background-color:darkgray;
+    width: 30%;
+    padding: 20px;
+}
+.header{
+   background-color: cornsilk;
+   padding: 10px;
+   margin-bottom: 10px;
+}
+.body{
+    background-color: white;
+   padding: 10px;
+}
+.footer{
+    padding-top: 5px;
+}
+.send_message{
+    padding: 5px;
+    width: 80%;
+}
+.reply_btn{
+    padding: 6px ;
+    width: 50px;
+    background-color: green;
+    color: cornsilk;
+    border: 0;
+}
+.btn2{
+    color: white;
+    background-color: yellow;
+    text-align: center;
+    padding: 15px;
+    margin-left: 30%;
+    width: 20px;
+}
